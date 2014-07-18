@@ -1,6 +1,6 @@
 {
   "name": "pg",
-  "version": "1.0.0",
+  "version": "3.4.0",
   "description": "alias for pg.js to force Knex to use pure-JS PostgreSQL bindings",
   "main": "index.js",
   "scripts": {
